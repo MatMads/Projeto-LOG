@@ -9,7 +9,6 @@ print(hora)
 
 
 
-
 URL_BASE = 'https://randomuser.me/api/'
 
 response = requests.get(URL_BASE)

@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Joy",
+        "last": "Gonzalez"
+      },
+      "location": {
+        "street": {
+          "number": 3853,
+          "name": "Marsh Ln"
+        },
+        "city": "Sydney",
+        "state": "South Australia",
+        "country": "Australia",
+        "postcode": 7345,
+        "coordinates": {
+          "latitude": "-89.2471",
+          "longitude": "75.0865"
+        },
+        "timezone": {
+          "offset": "-12:00",
+          "description": "Eniwetok, Kwajalein"
+        }
+      },
+      "email": "joy.gonzalez@example.com",
+      "login": {
+        "uuid": "756067c9-190a-4822-a0ba-0d2e8c742eaa",
+        "username": "redbird838",
+        "password": "race",
+        "salt": "LdOGhlyc",
+        "md5": "74af0c8d3ce0273076daa2a81339cd80",
+        "sha1": "d2ff2583fe2cc30423a1562cd86683acfafc4813",
+        "sha256": "6209cf544819f945b630f5c0d5baefd7ca7a49e5a16c137d98521ed079814882"
+      },
+      "dob": {
+        "date": "1953-05-13T08:48:40.536Z",
+        "age": 72
+      },
+      "registered": {
+        "date": "2020-10-30T15:37:07.766Z",
+        "age": 5
+      },
+      "phone": "07-4218-6617",
+      "cell": "0493-007-715",
+      "id": {
+        "name": "TFN",
+        "value": "768879862"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/49.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/49.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/49.jpg"
+      },
+      "nat": "AU"
+    }
+  ],
+  "info": {
+    "seed": "06ea9c14d9bdc742",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
