@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Lya",
+        "last": "Lopez"
+      },
+      "location": {
+        "street": {
+          "number": 6089,
+          "name": "Cours Charlemagne"
+        },
+        "city": "Saint-Pierre",
+        "state": "Eure-et-Loir",
+        "country": "France",
+        "postcode": 63274,
+        "coordinates": {
+          "latitude": "-19.4304",
+          "longitude": "86.9754"
+        },
+        "timezone": {
+          "offset": "-5:00",
+          "description": "Eastern Time (US & Canada), Bogota, Lima"
+        }
+      },
+      "email": "lya.lopez@example.com",
+      "login": {
+        "uuid": "a95392d4-9536-46d6-82ff-f2fa6f9f7733",
+        "username": "yellowzebra230",
+        "password": "xfiles",
+        "salt": "vlzzZxdk",
+        "md5": "0b11e4239ad001b7bb3394e2c7f46709",
+        "sha1": "77e3d7d420483465de9b7dfc34b4968b77c7b751",
+        "sha256": "950a22a69e8f35ad0f59eab2bcb7fc00fb1bd7a3144c05da79ab087c8b889f9e"
+      },
+      "dob": {
+        "date": "2001-01-16T04:54:19.096Z",
+        "age": 25
+      },
+      "registered": {
+        "date": "2015-03-10T09:53:42.072Z",
+        "age": 11
+      },
+      "phone": "05-59-44-22-84",
+      "cell": "06-89-99-01-13",
+      "id": {
+        "name": "INSEE",
+        "value": "21010042865410 22"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/37.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/37.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/37.jpg"
+      },
+      "nat": "FR"
+    }
+  ],
+  "info": {
+    "seed": "9842452311500c03",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Mechislava",
+        "last": "Andriievskiy"
+      },
+      "location": {
+        "street": {
+          "number": 3034,
+          "name": "Vodoginna"
+        },
+        "city": "Berezne",
+        "state": "Chernivecka",
+        "country": "Ukraine",
+        "postcode": 39924,
+        "coordinates": {
+          "latitude": "78.6077",
+          "longitude": "118.4530"
+        },
+        "timezone": {
+          "offset": "-3:30",
+          "description": "Newfoundland"
+        }
+      },
+      "email": "mechislava.andriievskiy@example.com",
+      "login": {
+        "uuid": "8055421f-5f3b-486f-bdbd-ee01ab6ca1e3",
+        "username": "ticklishtiger903",
+        "password": "pudding",
+        "salt": "0nUHx9D1",
+        "md5": "df8d4f0a9534e8d5ba38706f515d729f",
+        "sha1": "07eba48cad6d755ba3d9750a047d7182bb8b00e6",
+        "sha256": "2353a2d1ae4eb09332601e6d8c9a1536154408d8ce398f7d9ddce0be9412560a"
+      },
+      "dob": {
+        "date": "1945-01-29T13:49:38.580Z",
+        "age": 81
+      },
+      "registered": {
+        "date": "2004-05-09T00:59:49.118Z",
+        "age": 21
+      },
+      "phone": "(098) K86-1821",
+      "cell": "(068) J24-9125",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/62.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/62.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/62.jpg"
+      },
+      "nat": "UA"
+    }
+  ],
+  "info": {
+    "seed": "34d133abe8a1788f",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}

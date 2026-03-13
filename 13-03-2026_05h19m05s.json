@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Orinder",
+        "last": "Tipparti"
+      },
+      "location": {
+        "street": {
+          "number": 7651,
+          "name": "Ranganathan St"
+        },
+        "city": "Malegaon",
+        "state": "Meghalaya",
+        "country": "India",
+        "postcode": 84324,
+        "coordinates": {
+          "latitude": "9.5724",
+          "longitude": "-169.4169"
+        },
+        "timezone": {
+          "offset": "-3:00",
+          "description": "Brazil, Buenos Aires, Georgetown"
+        }
+      },
+      "email": "orinder.tipparti@example.com",
+      "login": {
+        "uuid": "af5cb9ad-cefb-4831-9235-858432ad19ce",
+        "username": "bluefrog556",
+        "password": "boxing",
+        "salt": "Y40UHndf",
+        "md5": "474e2ccca95f6f292de65d0eca3737db",
+        "sha1": "2dcbf1305ae79d783640f3e4ba8bd881ca181973",
+        "sha256": "545cd4e93ed711f1f623aa802ad35d767dbef8371350f7600a8786cae2ea8980"
+      },
+      "dob": {
+        "date": "1962-08-25T22:25:11.350Z",
+        "age": 63
+      },
+      "registered": {
+        "date": "2013-07-03T12:35:58.179Z",
+        "age": 12
+      },
+      "phone": "7168057913",
+      "cell": "7597833053",
+      "id": {
+        "name": "UIDAI",
+        "value": "627619627091"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/25.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/25.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/25.jpg"
+      },
+      "nat": "IN"
+    }
+  ],
+  "info": {
+    "seed": "5ee70ec1d53aecf9",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}

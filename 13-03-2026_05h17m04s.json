@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Joshua",
+        "last": "Patterson"
+      },
+      "location": {
+        "street": {
+          "number": 3726,
+          "name": "Fairview St"
+        },
+        "city": "North Charleston",
+        "state": "Maine",
+        "country": "United States",
+        "postcode": 51410,
+        "coordinates": {
+          "latitude": "84.2444",
+          "longitude": "-42.9013"
+        },
+        "timezone": {
+          "offset": "+10:00",
+          "description": "Eastern Australia, Guam, Vladivostok"
+        }
+      },
+      "email": "joshua.patterson@example.com",
+      "login": {
+        "uuid": "8af54957-d79d-43a5-9d06-93bdfb9f7140",
+        "username": "angrygorilla653",
+        "password": "sparks",
+        "salt": "YDKZoQu1",
+        "md5": "864d53e921cd033a1f131ed83db6c73c",
+        "sha1": "1483be0fa8a58cf986652b312a5f4e449fd276ea",
+        "sha256": "9296b963f082fc171d03274843dc532cb3bcb18c379e4bca973372841ebb3039"
+      },
+      "dob": {
+        "date": "1956-12-14T18:21:00.153Z",
+        "age": 69
+      },
+      "registered": {
+        "date": "2016-12-03T11:19:37.022Z",
+        "age": 9
+      },
+      "phone": "(965) 940-2009",
+      "cell": "(788) 383-6580",
+      "id": {
+        "name": "SSN",
+        "value": "416-32-7201"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/86.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+      },
+      "nat": "US"
+    }
+  ],
+  "info": {
+    "seed": "ed844e6a627aecec",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}

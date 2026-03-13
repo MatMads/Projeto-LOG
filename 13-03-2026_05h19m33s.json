@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Jack",
+        "last": "Cox"
+      },
+      "location": {
+        "street": {
+          "number": 1997,
+          "name": "Central St"
+        },
+        "city": "Knoxville",
+        "state": "New Mexico",
+        "country": "United States",
+        "postcode": 82964,
+        "coordinates": {
+          "latitude": "87.7697",
+          "longitude": "-122.8019"
+        },
+        "timezone": {
+          "offset": "+2:00",
+          "description": "Kaliningrad, South Africa"
+        }
+      },
+      "email": "jack.cox@example.com",
+      "login": {
+        "uuid": "7283179c-4666-4090-8050-1b0c4f68f577",
+        "username": "goldenbear173",
+        "password": "9999",
+        "salt": "qyxzaKbr",
+        "md5": "5382d86b981120ad085033735daa0af5",
+        "sha1": "164c837f630d1a34e761963a663552526579c48b",
+        "sha256": "70cb61c7d3b702efa554900b402b457251158021d375294635293e021aadf687"
+      },
+      "dob": {
+        "date": "1985-01-20T12:43:37.398Z",
+        "age": 41
+      },
+      "registered": {
+        "date": "2003-06-08T17:53:13.371Z",
+        "age": 22
+      },
+      "phone": "(493) 693-4469",
+      "cell": "(802) 231-5861",
+      "id": {
+        "name": "SSN",
+        "value": "837-57-2767"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/76.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/76.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/76.jpg"
+      },
+      "nat": "US"
+    }
+  ],
+  "info": {
+    "seed": "ee4b44c669e32578",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}

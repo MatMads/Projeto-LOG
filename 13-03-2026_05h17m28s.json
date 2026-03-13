@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "César",
+        "last": "Olvera"
+      },
+      "location": {
+        "street": {
+          "number": 2329,
+          "name": "Prolongación Norte Serna"
+        },
+        "city": "Cuquio",
+        "state": "Tabasco",
+        "country": "Mexico",
+        "postcode": 28473,
+        "coordinates": {
+          "latitude": "28.4822",
+          "longitude": "-26.2572"
+        },
+        "timezone": {
+          "offset": "-2:00",
+          "description": "Mid-Atlantic"
+        }
+      },
+      "email": "cesar.olvera@example.com",
+      "login": {
+        "uuid": "2a63e3d3-3d3e-44dd-8417-bfe6039d9283",
+        "username": "beautifulladybug750",
+        "password": "cowboy",
+        "salt": "mYn6r2Zb",
+        "md5": "07c1553470abb1370fc6859c1a26c247",
+        "sha1": "742c4c8de48f0a5022f88b1a57baa56a38149313",
+        "sha256": "34205e0d3dde293daa14bb33223aa9c6252dc75fba498fd90c666ea88db2b3bb"
+      },
+      "dob": {
+        "date": "2000-09-30T04:57:40.787Z",
+        "age": 25
+      },
+      "registered": {
+        "date": "2020-06-17T05:34:31.039Z",
+        "age": 5
+      },
+      "phone": "(602) 685 1518",
+      "cell": "(696) 868 4823",
+      "id": {
+        "name": "NSS",
+        "value": "58 67 13 7053 5"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/40.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/40.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/40.jpg"
+      },
+      "nat": "MX"
+    }
+  ],
+  "info": {
+    "seed": "2960a2a9198262b6",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Adela",
+        "last": "Thon"
+      },
+      "location": {
+        "street": {
+          "number": 8431,
+          "name": "Stordamsnaret"
+        },
+        "city": "Ål",
+        "state": "Bergen",
+        "country": "Norway",
+        "postcode": "8700",
+        "coordinates": {
+          "latitude": "43.8934",
+          "longitude": "0.9151"
+        },
+        "timezone": {
+          "offset": "-3:00",
+          "description": "Brazil, Buenos Aires, Georgetown"
+        }
+      },
+      "email": "adela.thon@example.com",
+      "login": {
+        "uuid": "0da5ddf1-e163-4893-bc78-b0991414a51c",
+        "username": "lazypeacock113",
+        "password": "info",
+        "salt": "ezlILn7U",
+        "md5": "c328693e8fbe0fe1fb7215346f612cb4",
+        "sha1": "da4c1fdc82244d310b863d68c1c0b40932428c3a",
+        "sha256": "edf0974d421b4b85cceca70cc04b18776df8ca6938c29c1e64e1ec0865ff2349"
+      },
+      "dob": {
+        "date": "1978-10-21T20:07:46.086Z",
+        "age": 47
+      },
+      "registered": {
+        "date": "2014-03-14T15:34:40.681Z",
+        "age": 11
+      },
+      "phone": "30263086",
+      "cell": "42136242",
+      "id": {
+        "name": "FN",
+        "value": "21107818828"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/9.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/9.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
+      },
+      "nat": "NO"
+    }
+  ],
+  "info": {
+    "seed": "c54b3da430846556",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Ege",
+        "last": "Tekand"
+      },
+      "location": {
+        "street": {
+          "number": 2487,
+          "name": "Abanoz Sk"
+        },
+        "city": 

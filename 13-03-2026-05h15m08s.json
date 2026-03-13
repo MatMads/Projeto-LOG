@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Ramon",
+        "last": "Gordon"
+      },
+      "location": {
+        "street": {
+          "number": 5347,
+          "name": "Richmond Road"
+        },
+        "city": "Gloucester",
+        "state": "Derbyshire",
+        "country": "United Kingdom",
+        "postcode": "UO9 5AR",
+        "coordinates": {
+          "latitude": "-11.5138",
+          "longitude": "-174.6785"
+        },
+        "timezone": {
+          "offset": "-1:00",
+          "description": "Azores, Cape Verde Islands"
+        }
+      },
+      "email": "ramon.gordon@example.com",
+      "login": {
+        "uuid": "c568a547-a3b1-4f20-a714-56859b83fb09",
+        "username": "beautifulelephant399",
+        "password": "java",
+        "salt": "OnTf7hcy",
+        "md5": "a5fb248245a6c2afe15b39302cf2c19e",
+        "sha1": "4f03f3ddaa13ab74a6ca0db8c8190cf1c7b72e2a",
+        "sha256": "7251c6aa2ddce7ac07412eb0a9efbed61b10ceca433043b4789a4dbf303bba4f"
+      },
+      "dob": {
+        "date": "1966-02-10T11:30:19.468Z",
+        "age": 60
+      },
+      "registered": {
+        "date": "2012-05-20T00:24:25.278Z",
+        "age": 13
+      },
+      "phone": "016977 4330",
+      "cell": "07156 312836",
+      "id": {
+        "name": "NINO",
+        "value": "AA 99 76 36 F"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/36.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/36.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/36.jpg"
+      },
+      "nat": "GB"
+    }
+  ],
+  "info": {
+    "seed": "9c62b6642af84ada",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
