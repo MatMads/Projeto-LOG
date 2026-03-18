@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Ms",
+        "first": "Catalina",
+        "last": "Calvo"
+      },
+      "location": {
+        "street": {
+          "number": 8127,
+          "name": "Calle de Pedro Bosch"
+        },
+        "city": "Guadalajara",
+        "state": "Andalucía",
+        "country": "Spain",
+        "postcode": 46386,
+        "coordinates": {
+          "latitude": "-34.5858",
+          "longitude": "63.9700"
+        },
+        "timezone": {
+          "offset": "+5:45",
+          "description": "Kathmandu"
+        }
+      },
+      "email": "catalina.calvo@example.com",
+      "login": {
+        "uuid": "31ecd950-6ffd-458f-a646-2ba8c9654942",
+        "username": "happydog752",
+        "password": "detroit",
+        "salt": "79YuG7Qy",
+        "md5": "9a9077db768bd415a2776b253e73ed50",
+        "sha1": "cb4ec172f8bf51415c0d98bdcea825e3a533631d",
+        "sha256": "e62b4f5f62c895426e8bc1aaa4ca26ee7b3d6c31963e7f45995ced1ee097450f"
+      },
+      "dob": {
+        "date": "1981-03-17T06:30:34.102Z",
+        "age": 44
+      },
+      "registered": {
+        "date": "2012-06-21T10:38:48.312Z",
+        "age": 13
+      },
+      "phone": "953-325-213",
+      "cell": "690-011-681",
+      "id": {
+        "name": "DNI",
+        "value": "14368265-Z"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/74.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/74.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/74.jpg"
+      },
+      "nat": "ES"
+    }
+  ],
+  "info": {
+    "seed": "e4af9cfcd2aeaa4f",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}

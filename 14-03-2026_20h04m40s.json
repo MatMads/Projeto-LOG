@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Miss",
+        "first": "Marilou",
+        "last": "Wong"
+      },
+      "location": {
+        "street": {
+          "number": 9314,
+          "name": "College Ave"
+        },
+        "city": "Maitland",
+        "state": "Québec",
+        "country": "Canada",
+        "postcode": "I2C 6T9",
+        "coordinates": {
+          "latitude": "-69.4615",
+          "longitude": "50.8950"
+        },
+        "timezone": {
+          "offset": "-5:00",
+          "description": "Eastern Time (US & Canada), Bogota, Lima"
+        }
+      },
+      "email": "marilou.wong@example.com",
+      "login": {
+        "uuid": "cf03e49d-d2a0-40e4-831e-93fb02c82b28",
+        "username": "tinylion278",
+        "password": "babyboy",
+        "salt": "kNac4rsm",
+        "md5": "8855644a63c1348815c5fa83587bd1eb",
+        "sha1": "c88c69302a5a14869c259c82f3f21385ad793422",
+        "sha256": "92b5310b7c859abba323bc82f2713c13f9612705604039f4452076f911b74697"
+      },
+      "dob": {
+        "date": "1999-10-09T11:35:10.407Z",
+        "age": 26
+      },
+      "registered": {
+        "date": "2017-01-18T04:10:49.379Z",
+        "age": 9
+      },
+      "phone": "D75 D71-5375",
+      "cell": "B57 A23-5759",
+      "id": {
+        "name": "SIN",
+        "value": "040548224"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/4.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/4.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/4.jpg"
+      },
+      "nat": "CA"
+    }
+  ],
+  "info": {
+    "seed": "30caa06bcf0870b1",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
